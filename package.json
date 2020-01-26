@@ -1,0 +1,23 @@
+{
+    "name": "simple-api-class-06",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --verbose --coverage --watch-All"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/401-advanced-javascript-obadaalmatrami/simple-api-class-06.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/401-advanced-javascript-obadaalmatrami/simple-api-class-06/issues"
+    },
+    "homepage": "https://github.com/401-advanced-javascript-obadaalmatrami/simple-api-class-06#readme",
+    "dependencies": {
+        "jest": "^25.1.0"
+    }
+}
